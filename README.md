@@ -155,12 +155,14 @@
     text-decoration: none;
   }
   ```
-  - style the hover and active states of the anchor tags
+  - style the hover of the anchor tags
+
   ```
   .page-links a:hover {
     background-color: gray;
     color: white;
   }
+  - add a class active to the home link and style that
   .page-links .active {
     background-color:#ffbf00;
     color: black;
