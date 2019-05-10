@@ -238,9 +238,9 @@
       top: 0;
   }
   ```
-6. Big Image Figure: set the margin to 0 on the figure and set the width to 100% and height to auto. This ensures that the image covers the full width of the page no matter how big the window is.
+6. Big Image Figure: set the margin to 0 on the figure and set the width to 100% and height to 200px. This ensures that the image covers the full width of the page no matter how big the window is.
 ```
-  figure#big-image {
+  .big-image {
       margin: 0;
   }
 
