@@ -253,7 +253,7 @@
   - create a class named `table` and assign it to sections containing **Recent Blogs** and **About**.  Create a table class selector in the style sheet and give it the following properties and values:
 
   ```
-  {
+  .table {
     display: table;
     height: 100%;
     width: 100%;
